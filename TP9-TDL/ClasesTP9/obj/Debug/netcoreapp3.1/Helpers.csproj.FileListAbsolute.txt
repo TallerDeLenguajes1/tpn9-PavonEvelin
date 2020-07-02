@@ -1,0 +1,9 @@
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\bin\Debug\netcoreapp3.1\Helpers.deps.json
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\bin\Debug\netcoreapp3.1\Helpers.dll
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\bin\Debug\netcoreapp3.1\Helpers.pdb
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\obj\Debug\netcoreapp3.1\Helpers.csprojAssemblyReference.cache
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfo.cs
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\obj\Debug\netcoreapp3.1\Helpers.csproj.CoreCompileInputs.cache
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\obj\Debug\netcoreapp3.1\Helpers.dll
+C:\RepoGit\tpn9-PavonEvelin\TP9-TDL\ClasesTP9\obj\Debug\netcoreapp3.1\Helpers.pdb
